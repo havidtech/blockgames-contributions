@@ -28,5 +28,8 @@
 ## Project 3:
 
 1. [Implement UI](https://github.com/Bg-Team-C/Voting/commit/b6f2bb604b1754480117902ddce17274d2a962ee)
+2. [Live coding session to integrate UI to Contract](https://github.com/Bg-Team-C/Voting/pull/17/commits/647dd0de305d79674927e406fc2c12e97d8a7a9a)
+
+
 
 
